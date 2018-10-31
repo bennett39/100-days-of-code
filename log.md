@@ -25,4 +25,17 @@ queries to save the user form input.
 **Thoughts** Making serious progress, though I can see how feature creep happens in software. There are so many times when I think
 "It'd be nice if..." I gotta be careful, though, or I'm never going to get this project finished and move on to the next one.
 
-**Link to work*** 5 commits on `budget` (see above for link)
+**Link to work** 5 commits on `budget` (see above for link)
+
+
+### Day 2: October 31, 2018
+
+**Today's Progress** Spent a lot of time today playing around with python's datetime module to get `monthly` working, so
+manipulating time, specifically strftime and strptime is now in my skillset. Also worked a lot with nested for loops to fill in a
+table with data from three different variables. Feeling confident in my basic Python abilities.
+
+**Thoughts** Last night I tried to go back and code something in C for the first time in a while. I struggled to remember all the
+syntax. Since I'm interested in efficiency and big data, that'll be something to revisit - not in C, but in C++. I also ordered an
+algorithm design book. Perhaps I'll try coding all of the solutions in both Python and C++.
+
+**Link to work** 2 commits on `budget`
