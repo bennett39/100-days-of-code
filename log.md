@@ -31,7 +31,7 @@ queries to save the user form input.
 ### Day 2: October 31, 2018
 
 **Today's Progress** Spent a lot of time today playing around with python's datetime module to get `monthly` working, so
-manipulating time, specifically strftime and strptime is now in my skillset. Also worked a lot with nested for loops to fill in a
+manipulating time, specifically `strftime` and `strptime` is now in my skillset. Also worked a lot with nested for loops to fill in a
 table with data from three different variables. Feeling confident in my basic Python abilities.
 
 **Thoughts** Last night I tried to go back and code something in C for the first time in a while. I struggled to remember all the
@@ -39,3 +39,15 @@ syntax. Since I'm interested in efficiency and big data, that'll be something to
 algorithm design book. Perhaps I'll try coding all of the solutions in both Python and C++.
 
 **Link to work** 2 commits on `budget`
+
+
+### Day 3: November 1, 2018
+
+**Today's Progress** The first version of the budget app is done!!! I can use it to keep my budget instead of manually updating
+Google Sheets, now! There are more features I'd like to implement, and it could be designed prettier. But for now I'm tired of
+looking at this code, and I'm going to leave it.
+
+**Thoughts** I need to deploy it to production now so it's always available - maybe as a subdomain on bennettgarner.com - that will
+likely be a whole different challenge to actually building the thing. My first migration to production, oh goodie!
+
+**Link to work** 3 commits on `budget`
