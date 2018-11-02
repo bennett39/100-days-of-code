@@ -51,3 +51,21 @@ looking at this code, and I'm going to leave it.
 likely be a whole different challenge to actually building the thing. My first migration to production, oh goodie!
 
 **Link to work** 3 commits on `budget`
+
+
+### Day 4: November 2, 2018
+
+**Today's Progress** Ah, the joys of moving from a fun little app developed in an IDE to a standalone Heroku web server. First 
+challenge today: Sort out dependencies from the IDE, then install those on my local Linux machine to get the app running locally.
+Since I'm running Ubuntu Xenial 16.04, I have Python 2.7 by default. I set up a pyenv to upgrade to Python 3.6 for my dependencies.
+Next, set up Heroku CLI and git push the local version to Heroku - it works! Now, currently working on creating PostgreSQL database
+for my app, since I can't use the SQLite database I've been using. After a lot of time on the command line, I finally have pgadmin4
+working in server mode. I just have to create my database/tables/schema, and then add that to the repository and therefore the
+Heroku app... In theory, it'll be that easy.
+
+**Thoughts** Today was a lot of problem solving of obscure dependencies/environments on the command line. I got a sense for what
+actual deployment and testing feels like, and I have to say I kind of liked the frustrating problem-solving nature of the whole
+thing. Twice today I got the most amazing happy feeling when my Heroku app finally worked online correctly, and when I finally got
+pgadmin to launch successfully.
+
+**Link to work** 13 commits on `budget` and a ton of command line stuff that isn't saved anywhere...
