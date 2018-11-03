@@ -55,7 +55,7 @@ likely be a whole different challenge to actually building the thing. My first m
 
 ### Day 4: November 2, 2018
 
-**Today's Progress** Ah, the joys of moving from a fun little app developed in an IDE to a standalone Heroku web server. First 
+**Today's Progress** Ah, the joys of moving from a fun little app developed in an IDE to a standalone Heroku web server. First
 challenge today: Sort out dependencies from the IDE, then install those on my local Linux machine to get the app running locally.
 Since I'm running Ubuntu Xenial 16.04, I have Python 2.7 by default. I set up a pyenv to upgrade to Python 3.6 for my dependencies.
 Next, set up Heroku CLI and git push the local version to Heroku - it works! Now, currently working on creating PostgreSQL database
@@ -69,3 +69,883 @@ thing. Twice today I got the most amazing happy feeling when my Heroku app final
 pgadmin to launch successfully.
 
 **Link to work** 13 commits on `budget` and a ton of command line stuff that isn't saved anywhere...
+
+
+### Day 5: 3, 2018
+
+**Today's Progress** Found a new guide for my Heroku migration. Its steps didn't work fully either, but I'm on the right track. The
+PostgreSQL database now exists and contains all my data. However my Heroku app isn't talking to the database correctly. At first,
+it was a problem with dependencies - the psycopg2 module wasn't installed. Now, I'm not sure what the problem is but I'm working on
+it.
+
+I also started using firecode.io to practice algorithms and data structures and gain greater fluency in Python. I might do the same
+for C++ as well when I'm ready to start learning it.
+
+**Thoughts** This Heroku migration is starting to get frustrating, but I make small bits of progress that indicate I'm moving in a
+good direction. I enjoyed firecode last night, too. I think that will be a good resource.
+
+**Link to work** `budget` 4 commits on `master` and 10 commits on `development`
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
+
+
+### Day : , 2018
+
+**Today's Progress**
+
+**Thoughts**
+
+**Link to work**
