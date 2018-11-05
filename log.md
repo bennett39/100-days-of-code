@@ -71,7 +71,7 @@ pgadmin to launch successfully.
 **Link to work** 13 commits on `budget` and a ton of command line stuff that isn't saved anywhere...
 
 
-### Day 5: 3, 2018
+### Day 5: November 3, 2018
 
 **Today's Progress** Found a new guide for my Heroku migration. Its steps didn't work fully either, but I'm on the right track. The
 PostgreSQL database now exists and contains all my data. However my Heroku app isn't talking to the database correctly. At first,
@@ -87,13 +87,13 @@ good direction. I enjoyed firecode last night, too. I think that will be a good 
 **Link to work** `budget` 4 commits on `master` and 10 commits on `development`
 
 
-### Day : , 2018
+### Day 6: November 4, 2018
 
-**Today's Progress**
+**Today's Progress** Today I spent a lot of time on algorithms this afternoon. So, no code written, per se, but a lot learned. I'm using Udi Manber's book to learn. I did problem sets on paper, so there's no link to my work today but trust me I have pages of exercises and notes
 
-**Thoughts**
+**Thoughts** This is the part that excites me. I'm not really interested in becoming a web developer, and front end work isn't very appealing to me. However, crunching the numbers and solving complicated problems is fun and rewarding. I just finished some proof by induction exercises and I love the way they stretched my brain to comprehend something I didn't comprehend just a few hours ago.
 
-**Link to work**
+**Link to work** No link, just pages of paper algorithms notes today.
 
 
 ### Day : , 2018
