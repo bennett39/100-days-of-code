@@ -84,7 +84,32 @@ I've also settled on building an application and API that can basically automate
 
 **Thoughts** This is the hard part of learning to code, because I'm in the intermediate area where there are no tutorials to tell you what to do next. You just have to decide on a new project and commit to it for a while. I might take this new feedly project as an opportunity to learn Django.
 
-**Link to work** New repository called `dev-feed` - I'm not sharing my dotfile publicly bc it has an access token in it right now.
+**Link to work** New repository called `dev-feed` - I'm not sharing my dotfile publicly bc it has an access token in it right now, but here's a snippet of my Git CLI shortcuts in action:
+
+```
+~/workspace/tracking/100-days-of-code/ (master) $ ga
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   log.md
+
+~/workspace/tracking/100-days-of-code/ (master) $ gc "Add daily log"
+[master ac4221d] Add daily log
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+~/workspace/tracking/100-days-of-code/ (master) $ gh
+Warning: Permanently added 'github.com,192.30.253.113' (RSA) to the list of known hosts.
+Counting objects: 3, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 860 bytes | 860.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To github.com:bennett39/100-days-of-code.git
+   edef332..ac4221d  master -> master
+```
 
 
 ### Day : , 2018
