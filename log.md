@@ -6,8 +6,7 @@
 
 **Thoughts:** I'm using this project as a way to learn Vim (the text editor), as well. Man is it difficult. I spend a lot of time in insert mode, using the editor like I would any other. But there are brief moments where I use Vim to quickly 'delete inner paragraph' or find and change something where I can see the editor's value. I'm going to spend a little more time learning and getting comfortable with the basics. Maybe in a week or two, I'll take off the traning wheels and turn on hard mode (no arrow keys, mouse, or backspace)
 
-**Link to work:** 4 commits today on `budget` - https://github.com/bennett39/budget. One fun, fake code snippet `100-days.py` in
-this 100-days-of-code repo.
+**Link to work:** 4 commits today on `budget` - https://github.com/bennett39/budget. One fun, fake code snippet `100-days.py` in this 100-days-of-code repo.
 
 
 ### Day 1: October 30, 2018
@@ -59,7 +58,7 @@ I also started using firecode.io to practice algorithms and data structures and 
 
 ### Day 6: November 4, 2018
 
-**Today's Progress** Today I spent a lot of time on algorithms this afternoon. So, no code written, per se, but a lot learned. I'm using Udi Manber's book to learn. I did problem sets on paper, so there's no link to my work today but trust me I have pages of exercises and notes
+**Today's Progress** Today I spent a lot of time on algorithms this afternoon. So, no code written, per se, but a lot learned. I'm using Udi Manber's book to learn. I did problem sets on paper, so there's no link to my work today but trust me I have pages of exercises and notes.
 
 **Thoughts** This is the part that excites me. I'm not really interested in becoming a web developer, and front end work isn't very appealing to me. However, crunching the numbers and solving complicated problems is fun and rewarding. I just finished some proof by induction exercises and I love the way they stretched my brain to comprehend something I didn't comprehend just a few hours ago.
 
@@ -68,7 +67,7 @@ I also started using firecode.io to practice algorithms and data structures and 
 
 ### Day 7: November 5, 2018
 
-**Today's Progress** The budget app is working on Heroku!!!!!!! There's a lot of error testing and optimizing left to do, but I think I'll take a break from this project for a while.  It was enough porting a Sqlite database to a PostgreSQL database in production. There's also a problem with session permanence if I use gunicorn, so this app is primed to break if anyone pushes its corner cases. Ultimately, refactoring it will require implementing Redis session management and rewriting a few database queries, none of which I'm interested in right now.
+**Today's Progress** The budget app is working on Heroku!!!!!!! There's a lot of error testing and optimizing left to do, but I think I'll take a break from this project for a while.  It was enough porting a Sqlite local database to a PostgreSQL database in production. There's also a problem with session permanence if I use gunicorn, so this app is primed to break if anyone pushes its corner cases. Ultimately, refactoring it will require implementing Redis session management and rewriting a few database queries, none of which I'm interested in right now. I'm cross-eyed from staring at this codebase.
 
 **Thoughts** It feels good to have this app working, but I'm mostly just glad to have it done for the moment. I need to decide on my next project, now. Probably something with a lot of data or complex algorithms. I'm going to Google around for available datasets to build a new project atop.
 
