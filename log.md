@@ -73,16 +73,18 @@ I also started using firecode.io to practice algorithms and data structures and 
 
 Another thought: I should add some dummy data to the budget database so that people can log in and at least see how it works.
 
-**Link to work** 3 commits today on `budget`
+**Link to work** 3 commits today on `budget` bennett39-budget.herokuapp.com
 
 
-### Day : , 2018
+### Day 8: November 6, 2018
 
-**Today's Progress**
+**Today's Progress** Today I dabbled in a couple different things, trying to find a new project. I'm learning shell scripting, so I'm cutstomizing my dotfiles to make me more efficient on the command line and automate some tasks.
 
-**Thoughts**
+I've also settled on building an application and API that can basically automate the work of building Intertech's dev digest. I've read up on feedly's API a little, and I've got my access token working to get new data.
 
-**Link to work**
+**Thoughts** This is the hard part of learning to code, because I'm in the intermediate area where there are no tutorials to tell you what to do next. You just have to decide on a new project and commit to it for a while. I might take this new feedly project as an opportunity to learn Django.
+
+**Link to work** New repository called `dev-feed` - I'm not sharing my dotfile publicly bc it has an access token in it right now.
 
 
 ### Day : , 2018
