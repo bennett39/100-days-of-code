@@ -112,13 +112,13 @@ To github.com:bennett39/100-days-of-code.git
 ```
 
 
-### Day : , 2018
+### Day 9: November 7, 2018
 
-**Today's Progress**
+**Today's Progress** I have a PostgreSQL server running on my machine! I'm trying to make a move to coding in Ubuntu and not in the IDE anymore. Setting up database support was among the first priorities for that transition. It took me a few hours, but I'm learning a lot about bash by using it. I also have a better understanding of how postgres works.
 
-**Thoughts**
+**Thoughts** I'm excited for what's next. I find myself settling into a workflow now. I'm going to tackle Django next and try to launch my next app using Django.
 
-**Link to work**
+**Link to work** I wrote a blog post about what I had to do today to get my Postgres server running. https://www.bennettgarner.com/launching-your-first-postgresql-server-on-ubuntu-16-04-a-guide-from-a-novice-for-beginners/
 
 
 ### Day : , 2018
