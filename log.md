@@ -121,13 +121,13 @@ To github.com:bennett39/100-days-of-code.git
 **Link to work** I wrote a blog post about what I had to do today to get my Postgres server running. https://www.bennettgarner.com/launching-your-first-postgresql-server-on-ubuntu-16-04-a-guide-from-a-novice-for-beginners/
 
 
-### Day : , 2018
+### Day 10: November 8, 2018
 
-**Today's Progress**
+**Today's Progress** Today, I got Django running on my machine! It's a very barebones application with only a single route, but it's working great and connected to my PostgreSQL server on 127.0.0.1. Last night, after I wrote yesterday's log, I continued to work on Stanford's Algorithms and Data Structures and Udi Manber's Intro to Algorithms textbook. Both are very good. 
 
-**Thoughts**
+**Thoughts** Coding projects in the morning and learning theoretical stuff in the evening is working out great. Each uses my brain differently so I feel like I'm learning a lot from both sides. 
 
-**Link to work**
+**Link to work** New `django` directory in the `learning` repository.
 
 
 ### Day : , 2018
