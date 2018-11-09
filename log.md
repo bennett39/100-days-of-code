@@ -130,13 +130,13 @@ To github.com:bennett39/100-days-of-code.git
 **Link to work** New `django` directory in the `learning` repository.
 
 
-### Day : , 2018
+### Day 11: November 9, 2018
 
-**Today's Progress**
+**Today's Progress** I worked through CS50's Django tutorial and I now feel like I have a basic understanding of how Django works. I also realize how powerful it is. I'm excited to learn more and build more complicated applications.
 
-**Thoughts**
+**Thoughts** Literally everything is online. Even if I want to do data and algorithms stuff, I'm going to need some grounding in web technologies to display and share the results. Django seems like a great option for learning web frameworks. Especially with a lot of data science happening in Python, it makes sense to learn Django as part of my stack.
 
-**Link to work**
+**Link to work** A bunch of new files - 1 commit (I know I should do microcommits, but I was following a tutorial) - in `learning/django`
 
 
 ### Day : , 2018
