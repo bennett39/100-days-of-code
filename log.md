@@ -148,13 +148,21 @@ To github.com:bennett39/100-days-of-code.git
 **Link to work** My bashrc and vimrc files are in the `hello-world` repository.
 
 
-### Day : , 2018
+### Day 13: Novermber 12, 2018
 
-**Today's Progress**
+**Today's Progress** I've switched ideas for a Django implementation,
+just to push my database abilities and really see how far Django can
+stretch. I'm going to build dad's field reports entry forms as a Django
+app. Today I got the database (models) set up. Next, I'll write the
+views and add login/authentication.
 
-**Thoughts**
+**Thoughts** I'm writing this from my first meetup - Hacker Hours. I've
+met Max, Susan, Robyn, and Aaron here. It has been fun, and I had a
+really good conversation with Max, so hopefully I've got a coding buddy
+to work with.
 
-**Link to work**
+**Link to work** A ton of commits in `learning/django` on the
+`garnereng` project.
 
 
 ### Day : , 2018
