@@ -139,16 +139,16 @@ To github.com:bennett39/100-days-of-code.git
 **Link to work** A bunch of new files - 1 commit (I know I should do microcommits, but I was following a tutorial) - in `learning/django`
 
 
-### Day 12: November 11, 2018
+### Day 12: November 10, 2018
 
-**Today's Progress** Did a nice amount of learning bash and vim at Pels Pie's (coffee shop) today. Great way to spend a chilly Saturday. And now I have built out bashrc and vimrc files with some basic settings that will make me more efficient.
+**Today's Progress** Did a nice amount of learning bash and vim at Pel's Pies (coffee shop) today. Great way to spend a chilly Saturday. And now I have built out bashrc and vimrc files with some basic settings that will make me more efficient.
 
 **Thoughts** While today wasn't technically coding on a project, I'm counting it because I learned a good bit about bash, vimscript, and vim plugins. Tomorrow, I'm headed to my first meetup with other developers, so I'll be sure to work on stuff there.
 
 **Link to work** My bashrc and vimrc files are in the `hello-world` repository.
 
 
-### Day 13: Novermber 12, 2018
+### Day 13: Novermber 11, 2018
 
 **Today's Progress** I've switched ideas for a Django implementation,
 just to push my database abilities and really see how far Django can
@@ -165,13 +165,20 @@ to work with.
 `garnereng` project.
 
 
-### Day : , 2018
+### Day 14: November 12, 2018
 
-**Today's Progress**
+**Today's Progress** A short coding session this morning since I have a
+lot of other work to get done. But I have the views working on
+garner-eng and I've created a repository for it. Going to Hacker Hours
+again this evening (different meetup in Manhattan) so I'll code some
+more then as well.
 
-**Thoughts**
+**Thoughts** I'd like to get my barebones Django app running on Heroku
+so I can see how this whole puzzle is going to fit together. That might
+be my next project. Alternatively maybe I can figure out how to sudo
+directly into Bluehost.
 
-**Link to work**
+**Link to work** New repository `garner-eng` for this project.
 
 
 ### Day : , 2018
