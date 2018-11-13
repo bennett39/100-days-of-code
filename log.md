@@ -184,13 +184,19 @@ directly into Bluehost.
 **Link to work** New repository `garner-eng` for this project.
 
 
-### Day : , 2018
+### Day 15: November 13, 2018
 
-**Today's Progress**
+**Today's Progress** The index, client, project, and site pages are all
+linking to one another now dynamically. It's pretty cool. Tried to call
+dad to tell him I'm doing this and show it to him, but he didn't pick
+up...
 
-**Thoughts**
+**Thoughts** I can tell Django is really powerful and I'm only
+scratching the surface. Right now, everything is super basic and I
+don't have any styling. I've also still got a lot to learn about logging
+users in and handling changes/post requests.
 
-**Link to work**
+**Link to work** More commits in the `garner-eng repository`
 
 
 ### Day : , 2018
