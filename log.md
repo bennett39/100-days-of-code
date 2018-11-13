@@ -173,6 +173,9 @@ garner-eng and I've created a repository for it. Going to Hacker Hours
 again this evening (different meetup in Manhattan) so I'll code some
 more then as well.
 
+UPDATE: I'm at Hacker Hours and I have the basic `client` view working
+now.
+
 **Thoughts** I'd like to get my barebones Django app running on Heroku
 so I can see how this whole puzzle is going to fit together. That might
 be my next project. Alternatively maybe I can figure out how to sudo
