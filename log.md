@@ -196,16 +196,25 @@ scratching the surface. Right now, everything is super basic and I
 don't have any styling. I've also still got a lot to learn about logging
 users in and handling changes/post requests.
 
-**Link to work** More commits in the `garner-eng repository`
+**Link to work** More commits in the `garner-eng` repository.
 
 
-### Day : , 2018
+### Day 16: November 14, 2018
 
-**Today's Progress**
+**Today's Progress** After a phone call with dad this morning, the
+garner-eng project is officially the most complicated application I've
+built to date. But it's cool how easy Django makes it to add a lot of
+new models to the database and link those models dynamically. I now have
+a working database that should be able to do everything dad wants it to
+do.
 
-**Thoughts**
+**Thoughts** Dad says Garner Engineering will pay me for the development
+work I'm doing, so I'm gonna keep working heavily on this project to
+make it ultra-usable for dad long term. Keeping a database of all Garner
+Engineering's projects is going to be key to internal record keeping but
+also to selling the company when the time comes in the next 5-10 years.
 
-**Link to work**
+**Link to work** 2 commits in `garner-eng`
 
 
 ### Day : , 2018
