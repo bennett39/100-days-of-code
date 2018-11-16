@@ -217,22 +217,44 @@ also to selling the company when the time comes in the next 5-10 years.
 **Link to work** 2 commits in `garner-eng`
 
 
-### Day : , 2018
+### Day 17: November 15, 2018
 
-**Today's Progress**
+**Today's Progress** Today, I switched things up to do work in the
+morning and development in the afternoon. It worked out well, and I got
+a lot of work done on garner-eng. Specifically, I started learning how
+to deploy to Google Cloud Platform's App Engine. I deployed a tutorial
+app first and then started working on getting garnereng deployed.
 
-**Thoughts**
+**Thoughts** I wasn't able to fully deploy garnereng today because I
+went to a Django NYC meetup at Stack Overflow's offices downtown. There
+were crazy presentations about asynchronous listening servers, using and
+automating vue.js deployment on Django, and creating custom blocks in
+the Wagtail Django CMS. I met Matt who spoke about the asynchronous
+channel servers (his application listened for IRC chats instead of HTTP
+requests). He's having a baby soon, but he said to get in touch if I try
+to use any of his source code for a future app.
 
-**Link to work**
+**Link to work** Couple commits on `garnereng`
 
 
-### Day : , 2018
+### Day 18: November 16, 2018
 
-**Today's Progress**
+**Today's Progress** The garnereng app is fully launched on Google App
+Engine! I should probably do a write up on what all it took to get a
+Django app to work on App Engine. Maybe I'll do that now, so that I
+remember in the future.
 
-**Thoughts**
+Also, I went through and added comments to by source code so far and
+made some elements in my templates conditionally display. I have a call
+with dad this afternoon to see what he thinks and map some next steps.
 
-**Link to work**
+**Thoughts** This is exciting to have an app deployed to production.
+Perhaps I'll go back and change my budget app from Heroku to Google App
+Engine as well. Though that seems like it might be more trouble than
+it's worth.
+
+**Link to work** I won't link to the app here since it has Garner
+Engineering's proprietary information - but the commits are on GitHub
 
 
 ### Day : , 2018
