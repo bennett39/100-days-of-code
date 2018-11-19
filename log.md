@@ -257,13 +257,27 @@ it's worth.
 Engineering's proprietary information - but the commits are on GitHub
 
 
-### Day : , 2018
+### Day 19: November 18, 2018
 
-**Today's Progress**
+**Today's Progress** I didn't code much yesterday, so I'm not counting
+it in my 100 Days. Officially my first skipped day.
 
-**Thoughts**
+But with the amount of progress I made today on the garnereng app, it's
+almost like two days worth of work. Bootstrap templates are now fully
+implemented across the app, and I added several pages for viewing more
+information. It's really starting to feel robust, now.
 
-**Link to work**
+**Thoughts** I've got a lot more I want to implement, so this project is
+by no means over, but it's going to be a great learning experience in a
+lot of different areas moving forward. Yet to implement:
+
+- Interactive editing, database updates
+- Search bar
+- Breadcrumbs
+- Dashboard with data viz
+- Authentication/login
+
+**Link to work** A lot of commits on `garnereng`
 
 
 ### Day : , 2018
