@@ -280,13 +280,21 @@ lot of different areas moving forward. Yet to implement:
 **Link to work** A lot of commits on `garnereng`
 
 
-### Day : , 2018
+### Day 20: November 19, 2018
 
-**Today's Progress**
+**Today's Progress** User authentication is now implemented! Login is
+required to see any information on the app now, which is a major step
+for the app because we can now start thinking about pointing a domain
+toward it and actually using it.
 
-**Thoughts**
+**Thoughts** Authentication was tricky to wrap my head around at first,
+but Django does all the hard stuff, you just have to tell it what you
+want in the right way. I'm burning thorugh my to-do list on this app.
+It's awesome.
 
-**Link to work**
+**Link to work** Since there's a login wall, I can now share the link -
+https://garnereng-222619.appspot.com. But if you don't have a login, you
+won't be able to check out the rest of the app.
 
 
 ### Day : , 2018
