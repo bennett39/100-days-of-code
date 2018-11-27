@@ -297,13 +297,23 @@ https://garnereng-222619.appspot.com. But if you don't have a login, you
 won't be able to check out the rest of the app.
 
 
-### Day : , 2018
+### Day 21: November 27, 2018
 
-**Today's Progress**
+**Today's Progress** I took a week off coding for the Thanksgiving
+holiday. Guests started arriving last Tuesday and then yesterday after
+everyone left I was sick.
 
-**Thoughts**
+I'm back at it today. Making some small updates and refamiliarizing
+myself with the garnereng app. Also going to try to implement the Feedly
+dev digest application as a command line app in python.
 
-**Link to work**
+**Thoughts** I went down a rabbit hole reading articles about data
+science today. It's interesting and I think I'd be good at it. However,
+it seems like the barriers to entry are much higher than in web
+development - particularly when it comes to degree requirements.
+
+**Link to work** garner-eng updated and new commits in dev-feed on my
+github
 
 
 ### Day : , 2018
