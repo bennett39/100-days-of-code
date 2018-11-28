@@ -316,13 +316,21 @@ development - particularly when it comes to degree requirements.
 github
 
 
-### Day : , 2018
+### Day 22: November 28, 2018
 
-**Today's Progress**
+**Today's Progress** My little Feedly aggregator is working to connect
+to feedly and get articles from a sample feed. I also have
+authentication working, so in theory all that's left is to add some
+params to the API Get request and I should be able to grab my unread
+articles.
 
-**Thoughts**
+**Thoughts** I'm sure using the Feedly API makes total sense to
+developers who have been doing this for a while, but it was a challenge
+figuring out how to construct URLs and resource IDs. A missing trailing
+`/` halted my progress for quite a while and I had to gradually work
+backward until I could figure out where the 404 error was coming from.
 
-**Link to work**
+**Link to work** Commits in the `dev-feed` repository.
 
 
 ### Day : , 2018
