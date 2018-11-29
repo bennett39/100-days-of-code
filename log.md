@@ -333,13 +333,28 @@ backward until I could figure out where the 404 error was coming from.
 **Link to work** Commits in the `dev-feed` repository.
 
 
-### Day : , 2018
+### Day 23: November 29, 2018
 
-**Today's Progress**
+**Today's Progress** It's working as a command line python program! The
+program uses the python requests module to connect to the feedly API. It
+authenticates using an OAuth key that I have saved in a secrets file.
 
-**Thoughts**
+I first had to get my user aricle stream working. It took a little 
+massaging of endpoints and resource IDs before I reliably got back what 
+I needed. Then, I spent a while learning about the encoding of the 
+response and how to parse and prettify JSONs. Now, the app exports an 
+indented UTF-8 .json file to the output folder!
 
-**Link to work**
+**Thoughts** One limitation: Feedly only allows 250 API requests per
+day. I'm not sure how that's measured. Right now, I'm capping my article
+stream requests at 20 articles by default.
+
+Now that I have the API connection working, I need to figure out what
+I'm going to build with it. Ideally, I can somehow filter, sort, and
+then save articles over time so I have a backlog of usable articles for
+the dev digest.
+
+**Link to work** Commits are in `dev_feed`
 
 
 ### Day : , 2018
