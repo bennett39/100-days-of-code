@@ -357,22 +357,34 @@ the dev digest.
 **Link to work** Commits are in `dev_feed`
 
 
-### Day : , 2018
+### Day 24: November 30, 2018
 
-**Today's Progress**
+**Today's Progress** There was a bug in garner-eng when I tried to show
+it to Max last night, so I found and fixed that bug. To guard against
+future bugs, I'm learning about testing and I spent today writing my
+first few Django tests. Luckily the Django testing suite uses similar
+syntax to Python's unittest module, so most of what I learned today
+should be transferrable.
 
-**Thoughts**
+**Thoughts** I listened to a podcast at the gym this morning on
+test-driven development. I'm familiar with the concept, but I've never
+tried it. I'm interested to try to use it with a simple project like
+dev-feed that I'm working on.
 
-**Link to work**
+**Link to work** Commits in `garner-eng`
 
 
-### Day : , 2018
+### Day 25: December 2, 2018
 
-**Today's Progress**
+**Today's Progress** Brief coding session today. I updated the
+formattting of the digest output file in the dev-feed
 
-**Thoughts**
+**Thoughts** Taking it chill this weekend, but still got a little bit
+done on the dev-feed. I want to work on writing tests for the app, and
+next I need to add more content to the API call and work on filtering
+and sorting the results.
 
-**Link to work**
+**Link to work** Commit in `dev-feed`
 
 
 ### Day : , 2018
