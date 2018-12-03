@@ -387,13 +387,19 @@ and sorting the results.
 **Link to work** Commit in `dev-feed`
 
 
-### Day : , 2018
+### Day 26: December 3, 2018
 
-**Today's Progress**
+**Today's Progress** Dev feed app is taking shape. It now all runs
+inside one application. I initially had the API call in one .py file and
+the formatting in another. But now they're together and happen all at
+once. The output is a markdown text file. Next step, sorting and
+filtering results.
 
-**Thoughts**
+**Thoughts** Happy with the brief progress I've made today. I also think
+I'm going to move more toward data-focused work. Analytics stuff. See
+how I like that.
 
-**Link to work**
+**Link to work** Commits in `dev-feed`
 
 
 ### Day : , 2018
