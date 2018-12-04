@@ -402,13 +402,21 @@ how I like that.
 **Link to work** Commits in `dev-feed`
 
 
-### Day : , 2018
+### Day 27: December 4, 2018
 
-**Today's Progress**
+**Today's Progress** Before I got to sorting and filtering, I wanted to
+make the application more flexible, so I broke everything into separate
+functions and added command line options when I run the program.
 
-**Thoughts**
+**Thoughts** This new structure will make the application much more
+modular, and it allows me to run variations of the program on the fly.
+It will also make testing parts of my code easier. This is a best
+practice that I've read about and used before. I want to make it more
+second nature when I'm creating from scratch.
 
-**Link to work**
+I also added docstrings and comments for all my new functions.
+
+**Link to work** 5 commits in `dev-feed`
 
 
 ### Day : , 2018
