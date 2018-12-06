@@ -419,13 +419,28 @@ I also added docstrings and comments for all my new functions.
 **Link to work** 5 commits in `dev-feed`
 
 
-### Day : , 2018
+### Day 28: December 6, 2018
 
-**Today's Progress**
+**Today's Progress** I'm happy with `dev-feed` at the moment since I
+broke it into separate smaller feeds. Feedly's built-in sorting is
+working fine, at least in the samples I've run. We'll see how it does
+the next time I make the dev digest and actually use it!
 
-**Thoughts**
+I'm interested in algorithms and data manipulation, so I'm moving back
+to C and working on the Project Euler problems. I'm already scratching
+my head over the first one. I think it should be possible to do it in
+constant time O(1).
 
-**Link to work**
+**Thoughts** Ohhh my C is a little rusty, but it's quickly coming back
+to me. I kind of like static typing and actually thinking about what's
+going on in memory when you write something. My first attempt at solving
+the problem worked up to a point before breaking down.
+
+Obviously, there's the straightforward solution of iterating through the
+numbers and adding them in linear time O(n), but I really feel like I
+can do better and I though I had a solution but it breaks down.
+
+**Link to work** New repository `euler`
 
 
 ### Day : , 2018
