@@ -443,22 +443,40 @@ can do better and I though I had a solution but it breaks down.
 **Link to work** New repository `euler`
 
 
-### Day : , 2018
+### Day 29: December 7, 2018
 
-**Today's Progress**
+**Today's Progress** I solved Euler #2 but forgot to write my daily log.
+It was a brief coding session in the morning.
 
-**Thoughts**
+**Thoughts** Solution works in log(n) time, since the Fibonacci series
+grows in n^1.6 until it reaches the upper bound of the algorithm. Start
+with the straightforward solution, get it working, and then optimize it
+once you have your head around the problem and the variables/functions
+defined.
 
-**Link to work**
+**Link to work** Commits in `euler`
 
 
-### Day : , 2018
+### Day 30: December 8, 2018
 
-**Today's Progress**
+**Today's Progress** Euler #3 and #4 today. #3 iterates through numbers
+until it finds a factor or reaches the square root of the input.
 
-**Thoughts**
+ #4 goes through a double for-loop, so worst case it's quadratic, but it
+ has a break statement to make it run much faster on average.
 
-**Link to work**
+**Thoughts** I like working on these puzzles. I can feel myself getting
+more fluent with C and the intricacies of data manipulation.
+
+I'm learning to like testing, but with some of these challenges it's
+tough to write tests because I don't know the answer ahead of time. I'll
+need to work on writing smaller tests.
+
+I think my documentation is getting better, and I'm also improving
+making small commits in git insead of all the changes in a single
+commit daily.
+
+**Link to work** Commits in `euler`
 
 
 ### Day : , 2018
