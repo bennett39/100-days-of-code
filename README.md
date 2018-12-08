@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # I've joined the #100DaysOfCode Challenge
 
 ## Contents
@@ -37,3 +38,9 @@ I recommend that you commit to no more than 2-3 challenges at a time, ideally 2.
 
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+=======
+# euler
+Project Euler problems implemented in C
+
+https://projecteuler.net/archives
+>>>>>>> a81353a2aaee6bcabd15b60b4451e6e7de5d80a1
