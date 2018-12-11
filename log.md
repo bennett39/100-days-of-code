@@ -479,13 +479,19 @@ commit daily.
 **Link to work** Commits in `euler`
 
 
-### Day : , 2018
+### Day 31: December 10, 2018
 
-**Today's Progress**
+**Today's Progress** Euler #5 and #6 today. Both were straightforward
+and felt somewhat easy, especially with the foundation of the first few
+problems. I'm sure they'll get harder soon though.
 
-**Thoughts**
+**Thoughts** Did some good research today on data engineering.
+Interested in starting a project with lots of data, but not sure if I
+can do it without having to pay for it. Storing lots of data and
+spinning up multiple machines to process non-relational data seems like
+it can't possibly be free.
 
-**Link to work**
+**Link to work** Commits in `euler`
 
 
 ### Day : , 2018
