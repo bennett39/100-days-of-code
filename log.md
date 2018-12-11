@@ -494,13 +494,17 @@ it can't possibly be free.
 **Link to work** Commits in `euler`
 
 
-### Day : , 2018
+### Day 32: December 11, 2018
 
-**Today's Progress**
+**Today's Progress** Implemented Problem 7 of Project Euler, calculating
+the 10,000 prime. My solution uses a hard coded array of possible prime
+factors to calculate the 10,000th in O(n log n) time.
 
-**Thoughts**
+**Thoughts** I wrote a whole blog post about why I like Project Euler so
+much. It's really challenging my algorithmic thinking and forcing me to
+work on fundamentals.
 
-**Link to work**
+**Link to work** Commits in `euler`
 
 
 ### Day : , 2018
