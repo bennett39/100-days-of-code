@@ -507,7 +507,7 @@ work on fundamentals.
 **Link to work** Commits in `euler`
 
 
-### Day 33: December 13 , 2018
+### Day 33: December 13, 2018
 
 **Today's Progress** Another Project Euler problem in the books. This
 one was pretty straightforward once I got everything set up. I'm waiting
@@ -532,13 +532,35 @@ and I can really learn things well and follow my interests.
 **Link to work** Commits in `euler`
 
 
-### Day : , 2018
+### Day 34: December 14, 2018
 
-**Today's Progress**
+**Today's Progress** Project Euler #9 implemented in C today. Felt good
+about this one too. I had to play around with type casting a little bit
+going from a float to an int, and I learned a handy trick for seeing if
+a float has decimal values:
 
-**Thoughts**
+```C
+float i;
 
-**Link to work**
+if (i == (int) i) {
+    then the float is a round number
+}
+else {
+    the float has decimal values
+}
+```
+
+**Thoughts** I've been getting a little fatigued the past few days. I
+find I don't want to work on code at the end of the day. Once I get into
+a problem, I'm motivated. But it's the getting started that has been
+hard recently.
+
+I think it has something to do with how much time I've started spending
+on writing, especially on Medium. I need to find a happy place of
+writing enough without wearing myself out. Maybe I'll do code first
+thing in the morning and leave writing to later in the day.
+
+**Link to work** Commits in `euler`
 
 
 ### Day : , 2018
