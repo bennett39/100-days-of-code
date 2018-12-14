@@ -507,13 +507,29 @@ work on fundamentals.
 **Link to work** Commits in `euler`
 
 
-### Day : , 2018
+### Day 33: December 13 , 2018
 
-**Today's Progress**
+**Today's Progress** Another Project Euler problem in the books. This
+one was pretty straightforward once I got everything set up. I'm waiting
+for them to get sneaky hard and require me to do all kinds of
+optimizations but none so far.
 
-**Thoughts**
+**Thoughts** I've been doing a lot on Medium recently. It's nice to see
+people reading what I have to say about code and technology. Trying to
+build an audience there. Seems like having a community that I write for
+could be a powerful motivator and a great networking tool when it comes
+time for the job search.
 
-**Link to work**
+Speaking of the job search, I've been reading articles online that
+basically say you should start applying for jobs whenever you can build
+something. I've built a lot of things at this point, including web apps
+from the ground-up and my feedly Dev Digest tool. I don't think I
+actually want a job right now, though. One thing I keep thinking about
+is doing Italy again next summer, and I'm happy at the moment with my
+writing workload as well. It's nice that there's no rush to get a job
+and I can really learn things well and follow my interests.
+
+**Link to work** Commits in `euler`
 
 
 ### Day : , 2018
