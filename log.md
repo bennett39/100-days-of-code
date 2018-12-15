@@ -563,13 +563,24 @@ thing in the morning and leave writing to later in the day.
 **Link to work** Commits in `euler`
 
 
-### Day : , 2018
+### Day 35: December 15, 2018
 
-**Today's Progress**
+**Today's Progress** I implemented a few Euler solutions in Python that
+I've already completed in C. At first, I was wondering, "Is that it?"
+because the Python solutions seemed to be so musch easier to write.
 
-**Thoughts**
+I didn't look at the C implementations when I wrote the Python code, but
+structure of the solutions are still fresh in my mind. I also didn't do
+any unit testing in the Python solutions, so that makes things slightly
+easier too. Perhaps I'll add tests later.
 
-**Link to work**
+**Thoughts** Still plugging along on my Medium writing as well. Another
+post out today. My post advocating the Project Euler problems that I
+published on December 11 got shared and has 1.4K views, 833 reads, 59
+fans, and 334 claps. So, that's exciting and driving traffic. Currently
+at 272 followers.
+
+**Link to work** Commits in `euler`
 
 
 ### Day : , 2018
