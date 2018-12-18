@@ -583,22 +583,58 @@ at 272 followers.
 **Link to work** Commits in `euler`
 
 
-### Day : , 2018
+### Day 36: December 17, 2018
 
-**Today's Progress**
+**Today's Progress** I used the `dev-feed` application for the first
+time in production today! I had to create new dev digests for Intertech,
+so I ran the Feedly script aaaaand...
 
-**Thoughts**
+THERE WERE BUGS, of course.
 
-**Link to work**
+Firstly, my API token had expired. Easy fix, but need to implement an
+easier way to signal that from the command line so you know exactly
+what's wrong when something is wrong. Learned about the 401 Unauthorized
+status code.
+
+Next, I had some broken links in the output digest. This is because
+Feedly's API is inconsistent where it stores the proper URL for the
+article. I wrote a Try/Except statement to catch KeyErrors and fix most
+links. There are still some bad links slipping through, but coverage is
+much better now -- acceptable level for my needs.
+
+Finallly, I created a new repository where I can view the output
+markdown files without cluttering up the application repository.
+Involved a little bit of sneaky git work using gitignore and then
+creating a new .git file within the existing repository. They're
+together in the same directory on my machine, but the repositories are
+separate on GitHub.
+
+**Thoughts** I'm actually really happy with the results. This was the
+fastest I've ever written the dev digest. The program allows me to grab
+only what I need and review it quickly in plaintext, instead of waiting
+for feedly to load images and stuff.
+
+I could implement it as a web application that stores a database of past
+articles, too maybe. Then, every article ever included in a dev digest
+would be in one place.
+
+**Link to work** Commits in `dev-feed` and `digests`
 
 
-### Day : , 2018
+### Day 37: December 18, 2018
 
-**Today's Progress**
+**Today's Progress** Another Project Euler problem down. I implemented
+today's problem in C. Lots of tricky work with primes.
 
-**Thoughts**
+I learned about returning arrays from a function in C in order to
+complete the solution with it broken up into one function doing only one
+thing.
 
-**Link to work**
+**Thoughts** They're starting to get more complicated. It's not that the
+problem was super hard to solve, I just had to juggle a lot of moving
+parts in my mind the way I implemented my solution.
+
+**Link to work** Commits in `euler/c/p10`
 
 
 ### Day : , 2018
