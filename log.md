@@ -637,13 +637,23 @@ parts in my mind the way I implemented my solution.
 **Link to work** Commits in `euler/c/p10`
 
 
-### Day : , 2018
+### Day 38: December 19, 2018
 
-**Today's Progress**
+**Today's Progress** I used dev-feed in production again today! Pat
+needed a few more links and I was able to generate them for him in less
+than 20 minutes. The dev digest is a breeze to create now!
 
-**Thoughts**
+I also reimplemented my bashrc from scratch. There were things annoying
+me about how cluttered my prompt was getting and I didn't have a symlink
+set up to keep my bashrc in source control. I fixed all that and now
+have a simple bashrc where I understand every line.
 
-**Link to work**
+**Thoughts** The Pragmatic Programer talks a lot about thinking about
+how you work. Adding aliases and other shortcuts to my bashrc makes a
+lot of sense to make me a faster developer. Now I just need to use them
+and get used to them.
+
+**Link to work** Commits in `digests` and `hello-world/bash`
 
 
 ### Day : , 2018
