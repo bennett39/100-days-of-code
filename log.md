@@ -656,13 +656,21 @@ and get used to them.
 **Link to work** Commits in `digests` and `hello-world/bash`
 
 
-### Day : , 2018
+### Day 39: December 20, 2018
 
-**Today's Progress**
+**Today's Progress** Project Euler #11 implemented in C. The solution
+was fairly straightforward again. Took me a little while to code it up
+because I was feeling distracted, but by the end it worked. Happy with
+my linear time solution.
 
-**Thoughts**
+**Thoughts** The problem involved a grid, but implemented it as a simple
+array and used modulo to iterate over "rows." Solutions came fairly
+quickly.
 
-**Link to work**
+Side note: I'm really happy with the aliases I created in my bashrc
+yesterday. They're making directory navigation so much easier now.
+
+**Link to work** Commits in `euler/c`
 
 
 ### Day : , 2018
