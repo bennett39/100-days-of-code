@@ -673,13 +673,22 @@ yesterday. They're making directory navigation so much easier now.
 **Link to work** Commits in `euler/c`
 
 
-### Day : , 2018
+### Day 40: December 21, 2018
 
-**Today's Progress**
+**Today's Progress** It's my birthday, and yes I coded today!
 
-**Thoughts**
+I did another Project Euler challenge. That makes 12 completed in C.
+Another tricky brain twister, but I feel good about how I did.
 
-**Link to work**
+**Thoughts** Wow, this Medium writing is catching fire. A post I wrote
+is currently #1 on Medium. It's a great feeling that so many people like
+my writing. Currently over 10k views. Another post is also trending. I'm
+up to 449 followers, which is the real metric I want to track moving
+forward because it impacts how many people will see my future posts.
+
+**Link to work** Commits in `euler/c`. My popular Medium post is about
+[Project
+Euler](https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c).
 
 
 ### Day : , 2018
