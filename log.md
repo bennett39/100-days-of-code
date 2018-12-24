@@ -691,13 +691,21 @@ forward because it impacts how many people will see my future posts.
 Euler](https://blog.usejournal.com/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c).
 
 
-### Day : , 2018
+### Day 41: December 24, 2018
 
-**Today's Progress**
+**Today's Progress** Worked on a Python Project Euler problem. Something
+easy and quick, just to get some code in today on Christmas Eve.
 
-**Thoughts**
+It's amazing how much cleaner my Python implementation looks than the
+original C code. Both in terms of the language's syntax and my variable
+naming and commenting.
 
-**Link to work**
+**Thoughts** The past two days I've been with family and haven't coded.
+We'll see how much I get done over Christmas and New Year's. I'm fine
+not commiting code this week. I'm making my own rules for this 100 days
+challenge.
+
+**Link to work** Commits in `euler/c`
 
 
 ### Day : , 2018
