@@ -708,13 +708,22 @@ challenge.
 **Link to work** Commits in `euler/c`
 
 
-### Day : , 2018
+### Day 42: December 27, 2018
 
-**Today's Progress**
+**Today's Progress** Started a new project today! I want to automate my
+Twitter likes and retweets, especially on people who share my articles.
+I implemented a barebones Tweepy bot in Python and got the repository
+all set up.
 
-**Thoughts**
+**Thoughts** I'm coming up with all kinds of ideas for problems to solve
+with code. Here they are so I can reference them later:
 
-**Link to work**
+- Balderdash as a mobile app that multiple people can play
+- Garner Engineering mobile app that ties into the database
+- Sudoku solver
+- Medium bot (idk if this is possible via the Medium API)
+
+**Link to work** Commits in a new repository `twitter-bot`
 
 
 ### Day : , 2018
