@@ -726,13 +726,18 @@ with code. Here they are so I can reference them later:
 **Link to work** Commits in a new repository `twitter-bot`
 
 
-### Day : , 2018
+### Day 43: December 28, 2018
 
-**Today's Progress**
+**Today's Progress** Got the Twitter bot working to favorite all tweets
+that mention my article.
 
-**Thoughts**
+Uses the format `url:ed8d13397c9c` as Twitter's unique URL identifier
 
-**Link to work**
+**Thoughts** Next step is to create a list of the urls of my articles
+and create a loop so that the bot favorites all tweets related to all my
+articles.
+
+**Link to work** Commits in `twitter-bot`
 
 
 ### Day : , 2018
