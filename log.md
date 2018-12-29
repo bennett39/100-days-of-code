@@ -740,13 +740,20 @@ articles.
 **Link to work** Commits in `twitter-bot`
 
 
-### Day : , 2018
+### Day 44: December 29, 2018
 
-**Today's Progress**
+**Today's Progress** Made some updates to my bashrc to add more aliases
+for setting up virtualenv quickly and setting environment variables to
+print UTF-8 to the console
 
-**Thoughts**
+Also added a loop that allows me to add multiple article URLs to the
+Twitter bot and favorite all the mentions of my articles at once
 
-**Link to work**
+**Thoughts** Happy with my progress on this Twitter app so far. It has
+been pretty easy, actually. I gotta think up some ideas for more
+funtionality I'd like it to automate.
+
+**Link to work** Commits in `hello-world/bash` and `twitter-bot`
 
 
 ### Day : , 2018
