@@ -756,13 +756,17 @@ funtionality I'd like it to automate.
 **Link to work** Commits in `hello-world/bash` and `twitter-bot`
 
 
-### Day : , 2018
+### Day 45: December 30, 2018
 
-**Today's Progress**
+**Today's Progress** Project Euler problem 4 is now implemented in
+Python. Didn't take too long to get the solution working and it runs
+quite fast. Also now extendible to values larger than 999.
 
-**Thoughts**
+**Thoughts** I worked on this from the parking lot while the family was
+at church. I need to remember to push these commits when I get back on
+wifi later today.
 
-**Link to work**
+**Link to work** Commits in `euler/python`
 
 
 ### Day : , 2018
