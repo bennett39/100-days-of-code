@@ -769,13 +769,23 @@ wifi later today.
 **Link to work** Commits in `euler/python`
 
 
-### Day : , 2018
+### Day 46: December 31, 2018
 
-**Today's Progress**
+**Today's Progress** New functionality added to `twitter-bot` to reply
+to tweets in addition to favoriting them when they mention my articles.
 
-**Thoughts**
+Read a lot of the Tweepy docs and the Twitter API docs to get things
+working with crafting reply tweets.
 
-**Link to work**
+Also broke the program down into constituent functions and added
+comments/docstrings.
+
+**Thoughts** Feeling quite confident in my abilities at the moment. The
+limiting factor on this project has been thinking of functionality I
+actually want to implement and how I want it to work. Writing the code
+has been fairly easy.
+
+**Link to work** Commits in `twitter-bot`
 
 
 ### Day : , 2018
