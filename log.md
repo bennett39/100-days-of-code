@@ -788,12 +788,25 @@ has been fairly easy.
 **Link to work** Commits in `twitter-bot`
 
 
-### Day 47: January 2, 2018
+### Day 47: January 1, 2018
 
-**Today's Progress** Didn't code yesterday b/c New Years. Back at it
-today and I'm working on a fun little project where I build a Sudoku
-solver. Trying to learn a little graph theory and get a working
-solution, even if it's a little messy at first.
+**Today's Progress** Brief coding session today with New Years stuff. I
+added funtionality to `twitter-bot` that also looks for any mentions of
+me (@bennettgarner) and automatically likes those tweets as well.
+
+**Thoughts** Reading the Tweepy and API docs is a little confusing. Idk
+what I'd do without Stack Overflow. It's challenging b/c the docs DO
+provide everything you need, but it's often buried or doesn't include
+any example code of how it actually works.
+
+**Links** Commits in `twitter-bot`
+
+
+### Day 48: January 2, 2018
+
+**Today's Progress** Back at it today and I'm working on a fun little 
+project where I build a Sudoku solver. Trying to learn a little graph 
+theory and get a working solution, even if it's a little messy at first.
 
 **Thoughts** I'm not really sure how I'm going to make this Sudoku
 solver work. Checking all the possible permutations of 81 squares is not
