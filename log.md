@@ -788,13 +788,28 @@ has been fairly easy.
 **Link to work** Commits in `twitter-bot`
 
 
-### Day : , 2018
+### Day 47: January 2, 2018
 
-**Today's Progress**
+**Today's Progress** Didn't code yesterday b/c New Years. Back at it
+today and I'm working on a fun little project where I build a Sudoku
+solver. Trying to learn a little graph theory and get a working
+solution, even if it's a little messy at first.
 
-**Thoughts**
+**Thoughts** I'm not really sure how I'm going to make this Sudoku
+solver work. Checking all the possible permutations of 81 squares is not
+really feasible. I think the answer is to somehow create a list of
+possible values for each square. Then, reduce the possible values
+horizontally, vertically, and within the 3x3 boxes.
 
-**Link to work**
+That still may not get every logical solution, though. I'm going to try
+to solve this without any outside help. Luckily, there are sudoku
+solvers already out there with source code available if I get REALLY
+stuck. But I'm working without their guidance on this as long a
+possible.
+
+**Link to work** New repository `sudoku-solver`. Also made changes in
+`bashrc` to add aliases and upgrade my version of Python to one that
+supports f-strings.
 
 
 ### Day : , 2018
