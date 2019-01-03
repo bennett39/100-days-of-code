@@ -825,13 +825,18 @@ possible.
 supports f-strings.
 
 
-### Day : , 2018
+### Day 49: January 3, 2018
 
-**Today's Progress**
+**Today's Progress** Sudoku solver is getting tricky but I think I'm
+setting myself up for success. I'm using object-oriented programming to
+create and update the various grids I'll need to solve a Sudoku.
 
-**Thoughts**
+**Thoughts** This is my first time creating an OOP project from scratch.
+I've had a little exposure to OOP with data structures like linked lists
+etc. I've also used class-based stuff in Django. But creating it from
+scratch has a learning curve.
 
-**Link to work**
+**Link to work** Commits in `sudoku-solver`
 
 
 ### Day : , 2018
