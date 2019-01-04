@@ -839,13 +839,23 @@ scratch has a learning curve.
 **Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 50: January 4, 2018
 
-**Today's Progress**
+**Today's Progress** `get_user_grid` is implemented, allowing me to
+repeatedly prompt the user to input their sudoku grid. Not the best UI,
+but it's working for now and I can change it to a graphical interface
+later.
 
-**Thoughts**
+**Thoughts** As part of one of my functions, I define and return a
+dictionary. I got confused for a second when the function returned
+values in a different order than I supplied them. Then, I remembered
+Python sorts keys in a dictionary.
 
-**Link to work**
+Coding feels good right now. There are still hiccups and challenges, but
+nothing I can't figure out and address within a few minutes of
+debugging.
+
+**Link to work** Commits in `sudoku-solver`
 
 
 ### Day : , 2018
