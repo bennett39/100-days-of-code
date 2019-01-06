@@ -858,13 +858,27 @@ debugging.
 **Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 51: January 5, 2018
 
-**Today's Progress**
+**Today's Progress** Implemented `get_possibilities` today which goes
+through the user's grid and creates a mirror grid listing the possible
+values for each square. Right now, it only eliminates the values
+currently in the square.
 
-**Thoughts**
+Next up, I need to implement horizontal, vertical, and box elimination
+for each value.
 
-**Link to work**
+**Thoughts** Today's coding spun my head in circles for a while. First,
+I had trouble conceptualizing how I'd iterate through the 81 squares in
+the sudoku grid. (I'd just woken from a nap and nothing was making
+sense.) Second, I ran into a confusing bug where my code went into
+negative indexes of a list, adding values I expected at the front of the
+list to the end instead.
+
+All's well that ends well, I suppose, but I'm not even into the meat of
+the problem solving a Sudoku.
+
+**Link to work** Commits in `sudoku-solver`
 
 
 ### Day : , 2018
