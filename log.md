@@ -881,13 +881,20 @@ the problem solving a Sudoku.
 **Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 52: January 6, 2018
 
-**Today's Progress**
+**Today's Progress** Small addition to `twitter-bot` today. Added a
+feature that follows back anybody who follows me or tweets my articles.
 
-**Thoughts**
+Pretty straightforward implementation
 
-**Link to work**
+**Thoughts** I've done some digging into the Tweepy source code. It
+looks like they could use some maintainers/contributors. I might try to
+make Tweepy my open source project of choice to work on and get some
+good contributions. The repository has over 5000 stars, but the Discord
+is pretty quiet in terms of support and there are 300+ open issues.
+
+**Link to work** Commits in `twitter-bot`
 
 
 ### Day : , 2018
