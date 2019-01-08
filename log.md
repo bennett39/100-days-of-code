@@ -897,13 +897,18 @@ is pretty quiet in terms of support and there are 300+ open issues.
 **Link to work** Commits in `twitter-bot`
 
 
-### Day : , 2018
+### Day 53: January 7, 2018
 
-**Today's Progress**
+**Today's Progress** More work on `sudoku-solver`. I got stumped by a
+problem in one of my functions right before the Clemson-Alabama game
+is going to come on, so I'll start coding tomorrow with a problem.
 
-**Thoughts**
+**Thoughts** Long, frustrating, but all-consuming coding session today.
+I restructured the app a little more to move the initialization of the
+possibilities grid into a different function from checking horizontal
+matches.
 
-**Link to work**
+**Link to work** Commits in `sudoku-solver`
 
 
 ### Day : , 2018
