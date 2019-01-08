@@ -917,6 +917,8 @@ matches.
 function in `sudoku-solver`. `.remove()` gets rid of the value in place
 without needing to put or return anything.
 
+Also added to my bashrc.
+
 **Thoughts** My bigger question, that I'm still stumped on, is why
 modifying the `p_rows` variable also modifies `p` directly. I need to do
 some more learning about Python scope. It's working, nevertheless.
