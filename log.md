@@ -911,13 +911,17 @@ matches.
 **Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 54: January 8, 2018
 
-**Today's Progress**
+**Today's Progress** Figured out my problem in the `check_horizontal`
+function in `sudoku-solver`. `.remove()` gets rid of the value in place
+without needing to put or return anything.
 
-**Thoughts**
+**Thoughts** My bigger question, that I'm still stumped on, is why
+modifying the `p_rows` variable also modifies `p` directly. I need to do
+some more learning about Python scope. It's working, nevertheless.
 
-**Link to work**
+**Link to work** Commits in `sudoku-solver`
 
 
 ### Day : , 2018
