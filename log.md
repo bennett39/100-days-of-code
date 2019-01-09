@@ -926,13 +926,23 @@ some more learning about Python scope. It's working, nevertheless.
 **Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 55: January 9, 2018
 
-**Today's Progress**
+**Today's Progress** I got rid of the `get_rows` method for the Grid
+class. It wasn't doing anything for me that I couldn't do already, so I
+refactored the code.
 
-**Thoughts**
+I also started thinking this whole project would be easier if each data
+point were a node connected to it's column and row. So I'm working on a
+new implementation (starting from scratch...) that uses Nodes in a
+graph, which I realize I should have done from the beginning.
 
-**Link to work**
+**Thoughts** This is a good learning exercise and I'm glad I'm figuring
+out these challenges rather than on a job or something. It's messing
+with my brain, but I'm getting more comfortable with stuff.
+
+**Link to work** Commits in `sudoku-solver` in `solver.py` and
+`nodal.py`
 
 
 ### Day : , 2018
