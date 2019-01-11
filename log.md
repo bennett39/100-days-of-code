@@ -945,13 +945,24 @@ with my brain, but I'm getting more comfortable with stuff.
 `nodal.py`
 
 
-### Day : , 2018
+### Day 56: January 10, 2018
 
-**Today's Progress**
+**Today's Progress** The new object-oriented Grid/Node classes are
+working, as are their methods! I can now accept user input to build the
+grid as well.
 
-**Thoughts**
+One nice thing about using custom objects is I don't have to keep two
+separate grids--one for answers and the other for possiblities--anymore.
+Instead, it's all wrapped into the variables associated with each Node.
 
-**Link to work**
+I also worked on my Twitter bot today to add some nice progress bars
+using a new package I discovered called tqdm.
+
+**Thoughts** I kind of had to scrap my old code, which stinks. But some
+of it I can refactor to work under the new architecture. I'll delete
+archive.py once I'm past the point where I was with the old version.
+
+**Link to work** Commits in `sudoku-solver` and `twitter-bot`
 
 
 ### Day : , 2018
