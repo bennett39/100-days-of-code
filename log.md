@@ -965,13 +965,18 @@ archive.py once I'm past the point where I was with the old version.
 **Link to work** Commits in `sudoku-solver` and `twitter-bot`
 
 
-### Day : , 2018
+### Day 57: January 11, 2018
 
-**Today's Progress**
+**Today's Progress** I'm really pleased with my progress narrowing down
+possibilities. Vertical, horizontal, and box based elimination are now
+implemented.
 
-**Thoughts**
+**Thoughts** I tried to input a whole sudoku test puzzle today to try it
+out for the first time and see how far it gets. The problem is the user
+experience is horrible. I'm going to need to refactor the code to accept
+text files instead.
 
-**Link to work**
+**Link to work** Commits in `sudoku-solver`
 
 
 ### Day : , 2018
