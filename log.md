@@ -979,22 +979,32 @@ text files instead.
 **Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 58: January 12, 2018
 
 **Today's Progress**
 
 **Thoughts**
 
-**Link to work**
+**Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 59: January 13, 2018
 
-**Today's Progress**
+**Today's Progress** My sudoku solver works! At least to solve simple
+puzzles. Idk if there are some logically-correct sudokus that my solver
+couldn't eventually find the answer to.
 
-**Thoughts**
+User experience is much better now too, bc I used an input txt file to
+add the puzzle.
 
-**Link to work**
+**Thoughts** I feel good having this project completed. It took me a
+while, but I feel like it pushed me to learn new stuff, and I feel
+comfortable with classes and OOP in a way I didn't before.
+
+I guess I could write some tests for it, too? I'm feeling kind of done
+at the moment though.
+
+**Link to work** Commits in `sudoku-solver`
 
 
 ### Day : , 2018
