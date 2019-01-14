@@ -1001,19 +1001,22 @@ add the puzzle.
 while, but I feel like it pushed me to learn new stuff, and I feel
 comfortable with classes and OOP in a way I didn't before.
 
-I guess I could write some tests for it, too? I'm feeling kind of done
-at the moment though.
-
 **Link to work** Commits in `sudoku-solver`
 
 
-### Day : , 2018
+### Day 60: January 14, 2018
 
-**Today's Progress**
+**Today's Progress** I started on a React app today. I've decided to
+take the plunge on full-stack web dev. Much more interested in the
+backend stuff than the front end, but I think I'll be surprised how much
+logic is involved in building React components, too.
 
-**Thoughts**
+**Thoughts** This is simultaneously working on JavaScript, Node.js, and
+React for me -- all things that are either new or far removed from what
+I've worked on recently. I'm excited about it. The tutorial makes sense
+so far and everything is working on my local machine.
 
-**Link to work**
+**Link to work** Commits in `node-hello`
 
 
 ### Day : , 2018
