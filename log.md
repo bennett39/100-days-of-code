@@ -1016,16 +1016,20 @@ React for me -- all things that are either new or far removed from what
 I've worked on recently. I'm excited about it. The tutorial makes sense
 so far and everything is working on my local machine.
 
-**Link to work** Commits in `node-hello`
+**Link to work** Commits in `react-hello`
 
 
-### Day : , 2018
+### Day 61: January 15, 2018
 
-**Today's Progress**
+**Today's Progress** Finished the official React tutorial, building a
+Tic Tac Toe game.
 
-**Thoughts**
+**Thoughts** I felt really good about my grasp of the concepts
+until I tried to do some of the extra challenges. I think I just don't
+understand how React renders components. Bolding and adding loops into
+the render process I couldn't get it to compile.
 
-**Link to work**
+**Link to work** Commits in `react-hello`
 
 
 ### Day : , 2018
