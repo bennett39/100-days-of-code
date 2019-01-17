@@ -1032,13 +1032,28 @@ the render process I couldn't get it to compile.
 **Link to work** Commits in `react-hello`
 
 
-### Day : , 2018
+### Day 62: January 16, 2018
 
-**Today's Progress**
+**Today's Progress** Watched some videos and feeling better about my
+understanding of React. Going to start building some things from scratch
+now.
 
-**Thoughts**
+I started playing around with it, but got stuck when I attempted to
+install Bootstrap as a dependency. Babel is having trouble with the
+build.
 
-**Link to work**
+Also wrote about variable names on Medium and worked on the variable
+names in my Twitter bot.
+
+**Thoughts** I think I'll have a pretty solid stack if I've got
+experience with Postgres/MySQL, Django/Node.js, and React + Bootstrap,
+all deployed to Google Cloud.
+
+I'll want some more experience with vanilla JavaScript. Docker is
+another place to get experience.
+
+**Link to work** Commits in `twitter-bot` - didn't have internet to push
+my react commits but also worked on `react-hello`
 
 
 ### Day : , 2018
