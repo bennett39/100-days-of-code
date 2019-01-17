@@ -1056,13 +1056,16 @@ another place to get experience.
 my react commits but also worked on `react-hello`
 
 
-### Day : , 2018
+### Day 63: January 17, 2018
 
-**Today's Progress**
+**Today's Progress** I've learned a little bit more about rendering
+React components. Now I know how to render a table using a for loop in a
+helper function.
 
-**Thoughts**
+**Thoughts** Gonna try again with Bootstrap in this React app. Maybe I
+can get it working better this time.
 
-**Link to work**
+**Link to work** Commits in `react-hello`
 
 
 ### Day : , 2018
