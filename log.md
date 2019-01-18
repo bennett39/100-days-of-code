@@ -1068,13 +1068,19 @@ can get it working better this time.
 **Link to work** Commits in `react-hello`
 
 
-### Day : , 2018
+### Day 64: January 18, 2018
 
-**Today's Progress**
+**Today's Progress** Bootstrap is working and I have my Tic Tac Toe
+application looking nice, including conditional formatting. Getting more
+comfortable with React and reacquainted with Bootstrap.
 
-**Thoughts**
+**Thoughts** I'm excited to start putting this together into a full
+stack app. Something running on Google Cloud with a Django controller
+and React view.
 
-**Link to work**
+Maybe I can even refactor Garner Eng with React components.
+
+**Link to work** Commits in `react-hello`
 
 
 ### Day : , 2018
