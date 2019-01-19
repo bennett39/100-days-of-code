@@ -1083,13 +1083,21 @@ Maybe I can even refactor Garner Eng with React components.
 **Link to work** Commits in `react-hello`
 
 
-### Day : , 2018
+### Day 65: January 19, 2018
 
-**Today's Progress**
+**Today's Progress** I deployed a react app to google app engine today
+and I messed around with dependencies and customizations of a React
+portfolio app.
 
-**Thoughts**
+**Thoughts** Confirmed: I don't enjoy web design. I can
+appreciate good designs, but dealing with the CSS on my portfolio was
+getting me super frustrated. I was constantly going back and revising
+things or deleting my progress altogether. Maybe I'm going about it the
+wrong way, though. In any case, I much prefer tricky logic, routing,
+tracking down problems with dependencies, etc.
 
-**Link to work**
+**Link to work** Commits in `portfolio` which are deployed to
+[Google App Engine](https://portfolio39.appspot.com)
 
 
 ### Day : , 2018
