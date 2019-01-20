@@ -1100,13 +1100,24 @@ tracking down problems with dependencies, etc.
 [Google App Engine](https://portfolio39.appspot.com)
 
 
-### Day : , 2018
+### Day 66: January 20, 2018
 
-**Today's Progress**
+**Today's Progress** A bunch of random stuff. Added icons to portfolio.
+Fixed some stuff in my vimrc. Wrote a promposal into TicTacToe that I
+didn't commit to GitHub.
 
-**Thoughts**
+**Thoughts** Went to Hacker Hours today, and I'm buzzing from the
+conversations I had. I met an experienced developer, Brian Kelly, and
+was able to keep up with the stuff he was talking about. I wanna work
+with him on SongPro, an application he has developed for rendering
+guitar tabs.
 
-**Link to work**
+I also was able to help two people with the coding projects they were
+working on. One just needed to update one of his dependencies to get his
+build working. The other I helped him untangle a Django API mess he had
+gotten into.
+
+**Link to work** Commits in `portfolio`, `guitar-tabs`, and `vimrc`
 
 
 ### Day : , 2018
